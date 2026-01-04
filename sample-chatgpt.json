@@ -1,0 +1,108 @@
+{
+  "conversations": [
+    {
+      "id": "1",
+      "title": "如何使用 React Hooks",
+      "create_time": 1704067200,
+      "update_time": 1704153600,
+      "mapping": {
+        "node1": {"message": {"content": {"parts": ["React Hooks 教學"]}}},
+        "node2": {"message": {"content": {"parts": ["useEffect 和 useState"]}}},
+        "node3": {"message": {"content": {"parts": ["謝謝你的解釋！"]}}}
+      }
+    },
+    {
+      "id": "2",
+      "title": "Python 資料分析入門",
+      "create_time": 1706745600,
+      "update_time": 1706832000,
+      "mapping": {
+        "node1": {"message": {"content": {"parts": ["Python pandas numpy 資料分析"]}}},
+        "node2": {"message": {"content": {"parts": ["matplotlib 視覺化"]}}}
+      }
+    },
+    {
+      "id": "3",
+      "title": "機器學習專案規劃",
+      "create_time": 1709251200,
+      "update_time": 1709337600,
+      "mapping": {
+        "node1": {"message": {"content": {"parts": ["機器學習 深度學習 神經網路"]}}},
+        "node2": {"message": {"content": {"parts": ["TensorFlow PyTorch 比較"]}}},
+        "node3": {"message": {"content": {"parts": ["模型訓練 最佳化"]}}},
+        "node4": {"message": {"content": {"parts": ["很有幫助！"]}}}
+      }
+    },
+    {
+      "id": "4",
+      "title": "履歷修改建議",
+      "create_time": 1711929600,
+      "update_time": 1712016000,
+      "mapping": {
+        "node1": {"message": {"content": {"parts": ["履歷 求職 面試"]}}}
+      }
+    },
+    {
+      "id": "5",
+      "title": "JavaScript 非同步處理",
+      "create_time": 1714608000,
+      "update_time": 1714694400,
+      "mapping": {
+        "node1": {"message": {"content": {"parts": ["JavaScript async await Promise"]}}},
+        "node2": {"message": {"content": {"parts": ["非同步程式設計"]}}}
+      }
+    },
+    {
+      "id": "6",
+      "title": "API 設計最佳實踐",
+      "create_time": 1717286400,
+      "update_time": 1717372800,
+      "mapping": {
+        "node1": {"message": {"content": {"parts": ["RESTful API GraphQL 設計"]}}},
+        "node2": {"message": {"content": {"parts": ["API 文件 Swagger"]}}},
+        "node3": {"message": {"content": {"parts": ["認證 授權 JWT"]}}}
+      }
+    },
+    {
+      "id": "7",
+      "title": "資料庫優化策略",
+      "create_time": 1719878400,
+      "update_time": 1719964800,
+      "mapping": {
+        "node1": {"message": {"content": {"parts": ["PostgreSQL MySQL 優化"]}}},
+        "node2": {"message": {"content": {"parts": ["索引 查詢效能"]}}}
+      }
+    },
+    {
+      "id": "8",
+      "title": "Docker 容器化部署",
+      "create_time": 1722556800,
+      "update_time": 1722643200,
+      "mapping": {
+        "node1": {"message": {"content": {"parts": ["Docker Kubernetes 容器"]}}},
+        "node2": {"message": {"content": {"parts": ["CI/CD 自動化部署"]}}},
+        "node3": {"message": {"content": {"parts": ["微服務架構"]}}}
+      }
+    },
+    {
+      "id": "9",
+      "title": "TypeScript 進階技巧",
+      "create_time": 1725148800,
+      "update_time": 1725235200,
+      "mapping": {
+        "node1": {"message": {"content": {"parts": ["TypeScript 泛型 型別"]}}},
+        "node2": {"message": {"content": {"parts": ["型別推斷 介面"]}}}
+      }
+    },
+    {
+      "id": "10",
+      "title": "2025 年度回顧計畫",
+      "create_time": 1732924800,
+      "update_time": 1733011200,
+      "mapping": {
+        "node1": {"message": {"content": {"parts": ["年度回顧 目標設定"]}}},
+        "node2": {"message": {"content": {"parts": ["規劃 2026"]}}}
+      }
+    }
+  ]
+}
